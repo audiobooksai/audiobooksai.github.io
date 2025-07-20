@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on AI Generated Audio Books</title>
+    <link>https://audiobooksai.github.io/docs/</link>
+    <description>Recent content in Docs on AI Generated Audio Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://audiobooksai.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://audiobooksai.github.io/docs/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://audiobooksai.github.io/docs/about/</guid>
+      <description>&lt;h1 id=&#34;about-audiobooksai&#34;&gt;About AudiobooksAI&lt;/h1&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://audiobooksai.github.io/images/library.jpg&#34; width=&#34;800&#34;/&gt; &lt;figcaption&gt;
+            Ludwig Valenta - In the library
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Welcome to AudiobooksAI, your home for free, high-quality audiobooks of public domain classics! Our mission is to make timeless literature accessible to all by releasing one professionally narrated audiobook every week.&lt;/p&gt;
+&lt;h2 id=&#34;our-story&#34;&gt;Our Story&lt;/h2&gt;
+&lt;p&gt;We’re passionate about bringing stories like &lt;em&gt;Heidi&lt;/em&gt;, &lt;em&gt;Pride and Prejudice&lt;/em&gt;, and &lt;em&gt;Moby Dick&lt;/em&gt; to life through audio. Using advanced text-to-speech (TTS) technology, we create clear, engaging narrations of public domain works—books free from copyright that belong to everyone. Our platform is simple and open to all, delivering a new audiobook every Monday, no subscriptions or fees required.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="about-audiobooksai">About AudiobooksAI</h1>
+<figure>
+    <img loading="lazy" src="/images/library.jpg" width="800"/> <figcaption>
+            Ludwig Valenta - In the library
+        </figcaption>
+</figure>
+
+<p>Welcome to AudiobooksAI, your home for free, high-quality audiobooks of public domain classics! Our mission is to make timeless literature accessible to all by releasing one professionally narrated audiobook every week.</p>
+<h2 id="our-story">Our Story</h2>
+<p>We’re passionate about bringing stories like <em>Heidi</em>, <em>Pride and Prejudice</em>, and <em>Moby Dick</em> to life through audio. Using advanced text-to-speech (TTS) technology, we create clear, engaging narrations of public domain works—books free from copyright that belong to everyone. Our platform is simple and open to all, delivering a new audiobook every Monday, no subscriptions or fees required.</p>
+<h2 id="what-we-do">What We Do</h2>
+<ul>
+<li><strong>Weekly Releases</strong>: A new TTS-narrated audiobook every Monday, free to stream or download.</li>
+<li><strong>Public Domain Focus</strong>: Timeless stories from adventure to romance, accessible to all.</li>
+<li><strong>Easy Access</strong>: A user-friendly website with features like searchable catalogs coming soon.</li>
+<li><strong>Community-Driven</strong>: We welcome your book suggestions and feedback to shape AudiobooksAI.</li>
+</ul>
+<h2 id="how-it-works">How It Works</h2>
+<p>Our TTS technology produces natural-sounding narrations, and our cloud-based system ensures fast, buffer-free audio delivery. It’s like a digital library in your pocket, ready to share classic stories anytime.</p>
+<h2 id="why-public-domain">Why Public Domain?</h2>
+<p>Public domain books are cultural treasures, free for everyone to enjoy. Our weekly releases bring these classics to new listeners, making literature open and inclusive.</p>
+<h2 id="join-us">Join Us</h2>
+<p>AudiobooksAI is a community for story lovers. Visit our site to listen to our latest release, suggest a book, or connect with us on social media. Let’s keep these stories alive, one week at a time!</p>
+<p>Happy listening,<br>
+The AudiobooksAI Team</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
