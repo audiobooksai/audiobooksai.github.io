@@ -7,7 +7,8 @@
     <link>https://audiobooksai.github.io/</link>
     <description>Public domain audiobooks narrated by AI</description>
     <language>en-us</language>
-    <itunes:author></itunes:author>
+    <itunes:author>AudiobooksAI</itunes:author>
+    <managingEditor>audiobooksai@proton.me (AudiobooksAI)</managingEditor>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://audiobooksai.github.io/images/podcast-cover.jpg" />
 
