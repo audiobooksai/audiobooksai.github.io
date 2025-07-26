@@ -10,6 +10,7 @@
     <itunes:author>AudiobooksAI</itunes:author>
     <managingEditor>audiobooksai@proton.me (AudiobooksAI)</managingEditor>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:email>audiobooksai@proton.me</itunes:email>
     <itunes:image href="https://audiobooksai.github.io/images/podcast-cover.jpg" />
 
     
