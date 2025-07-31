@@ -16,7 +16,294 @@
         <itunes:email>audiobooksai@proton.me</itunes:email>
     </itunes:owner>
     <itunes:image href="https://audiobooksai.github.io/images/podcast-cover.jpg" />
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
+    </itunes:category>
 
+    
+      
+      
+        
+        <item>
+          <title>Frankenstein - Chapter 1</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-01.mp3" length="15251022" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-01.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 00:00:00 UTC</pubDate>
+          <itunes:duration>00:12:12</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 2</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-02.mp3" length="4811022" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-02.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 01:00:00 UTC</pubDate>
+          <itunes:duration>00:03:30</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 3</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-03.mp3" length="1108302" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-03.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 02:00:00 UTC</pubDate>
+          <itunes:duration>00:00:25</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 4</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-04.mp3" length="8976462" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-04.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 03:00:00 UTC</pubDate>
+          <itunes:duration>00:06:58</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 5</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-05.mp3" length="9528462" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-05.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 04:00:00 UTC</pubDate>
+          <itunes:duration>00:07:26</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 6</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-06.mp3" length="2771982" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-06.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 05:00:00 UTC</pubDate>
+          <itunes:duration>00:01:48</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 7</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-07.mp3" length="18728142" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-07.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 06:00:00 UTC</pubDate>
+          <itunes:duration>00:15:06</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 8</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-08.mp3" length="12569742" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-08.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 07:00:00 UTC</pubDate>
+          <itunes:duration>00:09:58</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 9</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-09.mp3" length="15881742" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-09.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 08:00:00 UTC</pubDate>
+          <itunes:duration>00:12:44</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 10</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-10.mp3" length="18673422" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-10.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 09:00:00 UTC</pubDate>
+          <itunes:duration>00:15:03</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 11</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-11.mp3" length="17985102" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-11.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 10:00:00 UTC</pubDate>
+          <itunes:duration>00:14:29</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 12</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-12.mp3" length="16028142" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-12.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 11:00:00 UTC</pubDate>
+          <itunes:duration>00:12:51</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 13</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-13.mp3" length="18959022" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-13.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 12:00:00 UTC</pubDate>
+          <itunes:duration>00:15:18</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 14</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-14.mp3" length="24343182" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-14.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 13:00:00 UTC</pubDate>
+          <itunes:duration>00:19:47</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 15</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-15.mp3" length="20858382" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-15.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 14:00:00 UTC</pubDate>
+          <itunes:duration>00:16:53</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 16</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-16.mp3" length="15302382" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-16.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 15:00:00 UTC</pubDate>
+          <itunes:duration>00:12:15</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 17</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-17.mp3" length="15853902" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-17.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 16:00:00 UTC</pubDate>
+          <itunes:duration>00:12:42</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 18</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-18.mp3" length="18995022" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-18.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 17:00:00 UTC</pubDate>
+          <itunes:duration>00:15:19</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 19</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-19.mp3" length="14587662" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-19.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 18:00:00 UTC</pubDate>
+          <itunes:duration>00:11:39</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 20</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-20.mp3" length="14437422" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-20.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 19:00:00 UTC</pubDate>
+          <itunes:duration>00:11:32</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 21</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-21.mp3" length="12825582" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-21.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 20:00:00 UTC</pubDate>
+          <itunes:duration>00:10:11</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 22</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-22.mp3" length="20905902" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-22.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 21:00:00 UTC</pubDate>
+          <itunes:duration>00:16:55</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 23</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-23.mp3" length="21366222" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-23.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 22:00:00 UTC</pubDate>
+          <itunes:duration>00:17:18</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 24</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-24.mp3" length="12636462" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-24.mp3</guid>
+          <pubDate>Mon, 21 Jul 2025 23:00:00 UTC</pubDate>
+          <itunes:duration>00:10:01</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 25</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-25.mp3" length="19893102" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-25.mp3</guid>
+          <pubDate>Tue, 22 Jul 2025 00:00:00 UTC</pubDate>
+          <itunes:duration>00:16:04</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 26</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-26.mp3" length="18339342" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-26.mp3</guid>
+          <pubDate>Tue, 22 Jul 2025 01:00:00 UTC</pubDate>
+          <itunes:duration>00:14:47</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 27</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-27.mp3" length="23202702" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-27.mp3</guid>
+          <pubDate>Tue, 22 Jul 2025 02:00:00 UTC</pubDate>
+          <itunes:duration>00:18:50</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 28</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-28.mp3" length="24809742" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-28.mp3</guid>
+          <pubDate>Tue, 22 Jul 2025 03:00:00 UTC</pubDate>
+          <itunes:duration>00:20:10</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 29</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-29.mp3" length="23066862" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-29.mp3</guid>
+          <pubDate>Tue, 22 Jul 2025 04:00:00 UTC</pubDate>
+          <itunes:duration>00:18:43</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 30</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-30.mp3" length="17259342" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-30.mp3</guid>
+          <pubDate>Tue, 22 Jul 2025 05:00:00 UTC</pubDate>
+          <itunes:duration>00:13:53</itunes:duration>
+        </item>
+        
+        <item>
+          <title>Frankenstein - Chapter 31</title>
+          <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+          <enclosure url="https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-31.mp3" length="54918702" type="audio/mpeg" />
+          <guid>https://audiobooksai.github.io/audiobooks/frankenstein/frankenstein-Chapter-31.mp3</guid>
+          <pubDate>Tue, 22 Jul 2025 06:00:00 UTC</pubDate>
+          <itunes:duration>00:45:16</itunes:duration>
+        </item>
+        
+      
     
       
       
@@ -27,6 +314,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-01.mp3" length="22615901" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-01.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 00:00:00 UTC</pubDate>
+          <itunes:duration>00:18:35</itunes:duration>
         </item>
         
         <item>
@@ -35,6 +323,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-02.mp3" length="13200221" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-02.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 01:00:00 UTC</pubDate>
+          <itunes:duration>00:10:44</itunes:duration>
         </item>
         
         <item>
@@ -43,6 +332,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-03.mp3" length="19060541" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-03.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 02:00:00 UTC</pubDate>
+          <itunes:duration>00:15:37</itunes:duration>
         </item>
         
         <item>
@@ -51,6 +341,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-04.mp3" length="17180861" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-04.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 03:00:00 UTC</pubDate>
+          <itunes:duration>00:14:03</itunes:duration>
         </item>
         
         <item>
@@ -59,6 +350,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-05.mp3" length="12494141" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-05.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 04:00:00 UTC</pubDate>
+          <itunes:duration>00:10:09</itunes:duration>
         </item>
         
         <item>
@@ -67,6 +359,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-06.mp3" length="9987101" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-06.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 05:00:00 UTC</pubDate>
+          <itunes:duration>00:08:03</itunes:duration>
         </item>
         
         <item>
@@ -75,6 +368,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-07.mp3" length="15149981" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-07.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 06:00:00 UTC</pubDate>
+          <itunes:duration>00:12:22</itunes:duration>
         </item>
         
         <item>
@@ -83,6 +377,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-08.mp3" length="11231741" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-08.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 07:00:00 UTC</pubDate>
+          <itunes:duration>00:09:06</itunes:duration>
         </item>
         
         <item>
@@ -91,6 +386,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-09.mp3" length="7075421" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-09.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 08:00:00 UTC</pubDate>
+          <itunes:duration>00:05:38</itunes:duration>
         </item>
         
         <item>
@@ -99,6 +395,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-10.mp3" length="11174621" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-10.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 09:00:00 UTC</pubDate>
+          <itunes:duration>00:09:03</itunes:duration>
         </item>
         
         <item>
@@ -107,6 +404,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-11.mp3" length="7166621" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-11.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 10:00:00 UTC</pubDate>
+          <itunes:duration>00:05:42</itunes:duration>
         </item>
         
         <item>
@@ -115,6 +413,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-12.mp3" length="13341821" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-12.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 11:00:00 UTC</pubDate>
+          <itunes:duration>00:10:51</itunes:duration>
         </item>
         
         <item>
@@ -123,6 +422,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-13.mp3" length="19469021" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-13.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 12:00:00 UTC</pubDate>
+          <itunes:duration>00:15:57</itunes:duration>
         </item>
         
         <item>
@@ -131,6 +431,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-14.mp3" length="14946941" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-01-Chapter-14.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 13:00:00 UTC</pubDate>
+          <itunes:duration>00:12:11</itunes:duration>
         </item>
         
         <item>
@@ -139,6 +440,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-15.mp3" length="9386621" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-15.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 14:00:00 UTC</pubDate>
+          <itunes:duration>00:07:33</itunes:duration>
         </item>
         
         <item>
@@ -147,6 +449,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-16.mp3" length="12125501" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-16.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 15:00:00 UTC</pubDate>
+          <itunes:duration>00:09:50</itunes:duration>
         </item>
         
         <item>
@@ -155,6 +458,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-17.mp3" length="10440221" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-17.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 16:00:00 UTC</pubDate>
+          <itunes:duration>00:08:26</itunes:duration>
         </item>
         
         <item>
@@ -163,6 +467,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-18.mp3" length="14709821" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-18.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 17:00:00 UTC</pubDate>
+          <itunes:duration>00:12:00</itunes:duration>
         </item>
         
         <item>
@@ -171,6 +476,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-19.mp3" length="9293021" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-19.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 18:00:00 UTC</pubDate>
+          <itunes:duration>00:07:29</itunes:duration>
         </item>
         
         <item>
@@ -179,6 +485,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-20.mp3" length="17806781" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-20.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 19:00:00 UTC</pubDate>
+          <itunes:duration>00:14:34</itunes:duration>
         </item>
         
         <item>
@@ -187,6 +494,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-21.mp3" length="9131741" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-21.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 20:00:00 UTC</pubDate>
+          <itunes:duration>00:07:21</itunes:duration>
         </item>
         
         <item>
@@ -195,6 +503,7 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-22.mp3" length="17751581" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-22.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 21:00:00 UTC</pubDate>
+          <itunes:duration>00:14:32</itunes:duration>
         </item>
         
         <item>
@@ -203,11 +512,9 @@
           <enclosure url="https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-23.mp3" length="28676381" type="audio/mpeg" />
           <guid>https://audiobooksai.github.io/audiobooks/heidi/Heidi-Part-02-Chapter-23.mp3</guid>
           <pubDate>Mon, 14 Jul 2025 22:00:00 UTC</pubDate>
+          <itunes:duration>00:23:38</itunes:duration>
         </item>
         
-      
-    
-      
       
     
   </channel>

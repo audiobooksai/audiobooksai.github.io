@@ -6,7 +6,17 @@
     <description>Recent content in Audiobooks on AI Generated Audio Books</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://audiobooksai.github.io/audiobooks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://audiobooksai.github.io/audiobooks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frankenstein</title>
+      <link>https://audiobooksai.github.io/audiobooks/frankenstein/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://audiobooksai.github.io/audiobooks/frankenstein/</guid>
+      <description>Dive into the chilling tale of creation and regret with Victor Frankenstein and his haunting creation in Mary Shelley’s Frankenstein.</description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
     <item>
       <title>Heidi</title>
       <link>https://audiobooksai.github.io/audiobooks/heidi/</link>
@@ -14,16 +24,6 @@
       
       <guid>https://audiobooksai.github.io/audiobooks/heidi/</guid>
       <description>A heartwarming tale of a young girl&amp;rsquo;s life in the Swiss Alps.</description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://audiobooksai.github.io/audiobooks/frankenstein/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://audiobooksai.github.io/audiobooks/frankenstein/</guid>
-      <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
